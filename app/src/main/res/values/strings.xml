@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub System Status Checker</string>
+
+    <string name="date">Date: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet">No internet connection available.</string>
+    <string name="retry">RETRY</string>
+</resources>

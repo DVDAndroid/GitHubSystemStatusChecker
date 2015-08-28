@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="date_formats">
+        <item>dd-mm-yyyy</item>
+        <item>dd-mmm-yyyy</item>
+        <item>dd-mmmm-yyyy</item>
+        <item>dd-mm-yy</item>
+        <item>dd-mmm-yy</item>
+        <item>dd-mmmm-yy</item>
+        <item>yyyy-mm-dd</item>
+        <item>yyyy-mmm-dd</item>
+        <item>yyyy-mmmm-dd</item>
+        <item>yy-mm-dd</item>
+        <item>yy-mmm-dd</item>
+        <item>yy-mmmm-dd</item>
+        <item>mm-dd-yyyy</item>
+        <item>mmm-dd-yyyy</item>
+        <item>mmmm-dd-yyyy</item>
+        <item>mm-dd-yy</item>
+        <item>mmm-dd-yy</item>
+        <item>mmmm-dd-yy</item>
+    </string-array>
+
+    <string-array name="separators">
+        <item>-</item>
+        <item>/</item>
+        <item>.</item>
+        <item>(space)</item>
+    </string-array>
+
+</resources>
